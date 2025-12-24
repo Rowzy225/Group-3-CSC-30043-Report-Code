@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains our group's code for the CSC-30043 module assessment at Keele University. The assessment involved building and evaluating machine learning models to predict 'Loan Status' ("Fully Paid" vs. "Charged Off") based on financial and demographic data.
 
+Subroutines is a file with commonly used/repeated code sections. 
+
 ## Project Info
 **Authors:** Reilly Morphet, Rowan Zylstra  
 
